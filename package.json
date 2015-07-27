@@ -7,7 +7,7 @@
     "node": "*"
   },
   "license": "MIT",
-  "repository": "https://github.com/atom/language-rubymotion",
+  "repository": "https://github.com/awernick/language-rubymotion",
   "devDependencies": {
     "coffeelint": "^1.10.1"
   }
