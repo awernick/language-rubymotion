@@ -1,13 +1,13 @@
 {
-  "name": "language-ruby",
+  "name": "language-rubymotion",
   "version": "0.56.0",
-  "description": "Ruby language support in Atom",
+  "description": "RubyMotion language support in Atom",
   "engines": {
     "atom": "*",
     "node": "*"
   },
   "license": "MIT",
-  "repository": "https://github.com/atom/language-ruby",
+  "repository": "https://github.com/atom/language-rubymotion",
   "devDependencies": {
     "coffeelint": "^1.10.1"
   }

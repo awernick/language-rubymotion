@@ -1,5 +1,5 @@
-'name': 'Ruby'
-'scopeName': 'source.ruby'
+'name': 'RubyMotion'
+'scopeName': 'source.rubymotion'
 'fileTypes': [
   'Appraisals'
   'Berksfile'

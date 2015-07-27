@@ -1,8 +1,8 @@
-'.source.ruby, .dyn.caret.begin.document':
+'.source.rubymotion, .dyn.caret.begin.document':
   '#!/usr/bin/env ruby -wKU':
     'prefix': 'rb'
     'body': '#!/usr/bin/env ruby -wKU\n'
-'.source.ruby':
+'.source.rubymotion':
   '# encoding: UTF-8':
     'prefix': 'utf8'
     'body': '# encoding: ${1:UTF-8}\n'
@@ -303,7 +303,7 @@
   'pry':
     'prefix': 'pry'
     'body': 'binding.pry'
-'.source.ruby .comment':
+'.source.rubymotion .comment':
   ':yields:':
     'prefix': 'y'
     'body': ' :yields: ${0:arguments}'
